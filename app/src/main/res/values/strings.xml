@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ICC Info</string>
+    <string name="title_activity_referencia">referenciaActivity</string>
+    <string name="hint_username">Matrícula</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="btnLogin">Ingresar</string>
+</resources>
