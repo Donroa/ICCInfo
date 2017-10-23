@@ -7,4 +7,5 @@
     <color name="editTextColorBlack">#a24066</color>
     <color name="btnNormal">#18a096</color>
     <color name="btnLight">#5cd2c7</color>
+    <color name="fondoTituloNoticia">#66292929</color>
 </resources>
